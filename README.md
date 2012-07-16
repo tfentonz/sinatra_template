@@ -1,4 +1,4 @@
-sinatra_template
+Sinatra template
 ================
 
-A base Sinatra application template with ActiveRecord and MySQL.
+A base Sinatra application template with ActiveRecord, MySQL and Erb.
